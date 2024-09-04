@@ -43,4 +43,5 @@ polynomial_regression.fit(x, y)
 # Step 5: Polynomial Regression prediction
 X_height = [[20.0]]
 target_predicted = polynomial_regression.predict(X_height)
-print("Polynomial Regression Prediction for x=20:", target_predicted)
+print("Hello")
+
